@@ -34,8 +34,8 @@ Split the image (boy.jpg) into B, G, R components and display the channel
 
 ## PROGRAM DEVELOPED BY:
 ~~~
-NAME : Moenish Baalan G
-REG NO: 212223220057
+Name : Mohamed Nadheem N
+Reg No : 212223240091
 ~~~
 
 
